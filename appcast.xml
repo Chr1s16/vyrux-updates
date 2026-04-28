@@ -20,8 +20,8 @@
             ]]></description>
             <enclosure
                 url="https://github.com/Chr1s16/vyrux-updates/releases/download/v1.0.0/Vyrux-1.0.0.pkg"
-                sparkle:edSignature="PLACEHOLDER_RUN_sign_update"
-                length="0"
+                sparkle:edSignature="xojpy/4Z9xWjekhPkSI9tIPUUXpXYJE3K+KVPAnQ4DR8GN9uTkVl+gLX+oc0wVuUZ4HGRoYv/N2Lm/uP94kVDg=="
+                length="8804435"
                 type="application/octet-stream"/>
         </item>
 
