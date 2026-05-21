@@ -7,6 +7,28 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Wed, 21 May 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Vyrux 1.1.0</h2>
+                <ul>
+                    <li>Rename patches — right-click any patch in the Computer Banks</li>
+                    <li>Reorder patches — right-click → Move Up / Move Down</li>
+                    <li>Bug report button in the About panel</li>
+                    <li>Right-click menu now appears at cursor position</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Chr1s16/vyrux-updates/releases/download/v1.1.0/Vyrux-1.1.0.pkg"
+                sparkle:edSignature="bVdjwAQ4UVp7WBbZFa5ODCZgqbRjcu65Wugu/iZKDdlEh6lJaDElxhyvSr2CQOR6F7ZMmKGm/XeO8IrmkEKPBQ=="
+                length="4923267"
+                type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.0.0</title>
             <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1.0.0</sparkle:version>
