@@ -7,6 +7,29 @@
         <language>en</language>
 
         <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Vyrux 1.2.0</h2>
+                <ul>
+                    <li><b>Direct USB connection</b> — pick “Virus TI — USB (direct)” in the MIDI Connection menu; no bridge app needed</li>
+                    <li><b>Play from the Virus keyboard over USB</b> — keys, wheels, aftertouch and sustain now make sound</li>
+                    <li>Reconnect button + USB status; your USB selection is remembered</li>
+                    <li>Faster, more reliable SysEx over USB; DIN MIDI works as before</li>
+                    <li>Existing licenses stay valid — no re-activation needed</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Chr1s16/vyrux-updates/releases/download/v1.2.0/Vyrux-1.2.0.pkg"
+                sparkle:edSignature="msd5/BTDnnt4gRgHnHcSPjz+Nz2pISKVIWHLBcZXFcvuT1V/1f8yL09Np8vBbAPtX29kI7/mQC/zScvoXD51Cg=="
+                length="9229094"
+                type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.1.0</title>
             <pubDate>Wed, 21 May 2026 00:00:00 +0000</pubDate>
             <sparkle:version>1.1.0</sparkle:version>
