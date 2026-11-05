@@ -6,6 +6,28 @@
         <description>Vyrux — Controller &amp; Librarian for Access Virus TI</description>
         <language>en</language>
 
+
+        <item>
+            <title>Version 1.2.1</title>
+            <pubDate>Thu, 05 Nov 2026 18:32:47 +0000</pubDate>
+            <sparkle:version>1.2.1</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Vyrux 1.2.1</h2>
+                <ul>
+                    <li><b>Mod Matrix section rework</b> — slot-card layout with ACTIVE LED, clearer source selection, and bipolar amount bars (visual polish; MIDI/SysEx behaviour unchanged)</li>
+                    <li>Under-the-hood improvements and UI cleanup around the Mod Matrix page</li>
+                    <li>Existing licenses stay valid — no re-activation needed</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Chr1s16/vyrux-updates/releases/download/v1.2.1/Vyrux-1.2.1.pkg"
+                sparkle:edSignature="/edZr5O2XvFIK6Im6QA6IFPEVCOfEy6MvxxJsbEuKNj2CQ/Gt2ml1MkcCLZbgpHJUmBqpz2GxzymOVAcuaq0Dw=="
+                length="9261243"
+                type="application/octet-stream"/>
+        </item>
+
         <item>
             <title>Version 1.2.0</title>
             <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
