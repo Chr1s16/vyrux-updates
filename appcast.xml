@@ -8,6 +8,31 @@
 
 
         <item>
+            <title>Version 1.2.2</title>
+            <pubDate>Sat, 07 Nov 2026 13:17:58 +0200</pubDate>
+            <sparkle:version>1.2.2</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Vyrux 1.2.2</h2>
+                <ul>
+                    <li>Redesigned Effects page with a compact effect list and editor.</li>
+                    <li>Improved EQ response display, default values and parameter readouts.</li>
+                    <li>Added double-click value editing and improved slider handling.</li>
+                    <li>Fixed missing Distortion controls and Character panel updates.</li>
+                    <li>Corrected effect parameter mappings and MIDI/SysEx handling.</li>
+                    <li>Fixed Vocoder filter locking and status notifications.</li>
+                    <li>Separated Single Volume from effect bypass controls.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Chr1s16/vyrux-updates/releases/download/v1.2.2/Vyrux-1.2.2.pkg"
+                sparkle:edSignature="6nvWXHy4/FSQ6eHe8EA9DlRpWyx0R89/J7Q1nTii5vXFVT9o7/oSWxmI6u7bCwScZuSKensyJ5I/vAul7LItDA=="
+                length="9568947"
+                type="application/octet-stream"/>
+        </item>
+
+        <item>
             <title>Version 1.2.1</title>
             <pubDate>Thu, 05 Nov 2026 18:32:47 +0000</pubDate>
             <sparkle:version>1.2.1</sparkle:version>
